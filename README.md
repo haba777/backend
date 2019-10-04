@@ -19,5 +19,7 @@
 
 ## Условия
 Использовать можно (.NET Framework, .NET Core)
+
 БД на выбор (MSSQL, PostgreSQL)
+
 В качестве ORM использовать Entity Framework (по желанию можно Dapper)
